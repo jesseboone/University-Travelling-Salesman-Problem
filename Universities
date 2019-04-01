@@ -1,0 +1,1000 @@
+1	Stanford University	United States	37.431089	-122.1693009
+2	Massachusetts Institute of Technology	United States	42.3583961	-71.09567788
+3	Harvard University	United States	42.36782045	-71.12666183
+4	University of Cambridge	United Kingdom	52.17638955	0.143088815
+5	University of Oxford	United Kingdom	51.7575707	-1.254973304
+6	California Institute of Technology	United States	34.13710185	-118.1252749
+7	University of Chicago	United States	41.7846875	-87.60074672
+8	Princeton University	United States	40.34829285	-74.66308325
+9	Columbia University	United States	40.814856	-73.96101624
+10	Yale University	United States	41.25713055	-72.9896696
+11	ETH Zurich – Swiss Federal Institute of Technology Zurich	Switzerland	47.3764534	8.547709315
+12	University of Pennsylvania	United States	39.9492344	-75.19198985
+13	Cornell University	United States	42.4489498	-76.4746832
+14	Johns Hopkins University	United States	44.4947702	11.3558967
+15	University of California, Berkeley	United States	37.87631055	-122.2388593
+16	Imperial College London	United Kingdom	51.49879595	-0.176922309
+17	University College London	United Kingdom	51.52142145	-0.130674409
+18	University of California, Los Angeles	United States	34.068921	118.445245
+19	Northwestern University	United States	42.0551164	-87.67581113
+20	University of Michigan	United States	42.2942077	-83.71003852
+21	Duke University	United States	35.9990522	-78.9290629
+22	University of Toronto	Canada	43.66333345	-79.39769975
+23	University of California, San Diego	United States	32.87935255	-117.2311005
+24	University of Tokyo	Japan	35.9020448	139.9362201
+25	University of Edinburgh	United Kingdom	55.9462364	-3.190622742
+26	New York University	United States	40.7292641	-73.99626827
+27	University of Washington	United States	47.6543238	-122.3080089
+28	National University of Singapore	Singapore	1.2962018	103.7768994
+29	Tsinghua University	China	40.00229045	116.3209891
+30	University of Wisconsin-Madison	United States	43.07996765	-89.4307652
+31	McGill University	Canada	45.50691775	-73.57911626
+32	Peking University	China	39.9920267	116.3067065
+33	University of British Columbia	Canada	49.25219815	-123.2314565
+34	King’s College London	United Kingdom	51.4697988	-0.089330649
+35	Kyoto University	Japan	35.0234513	135.7798129
+36	University of Illinois at Urbana-Champaign	United States	40.101976	-88.2314378
+37	Carnegie Mellon University	United States	37.4102193	-122.0596549
+38	École Polytechnique Fédérale de Lausanne	Switzerland	46.5186594	6.566561505
+39	University of Melbourne	Australia	-37.79723905	144.9584474
+40	University of Manchester	United Kingdom	53.4659671	-2.232973772
+41	University of Texas at Austin	United States	30.284151	-97.73195598
+42	Seoul National University	South Korea	37.4581284	126.952134
+43	University of North Carolina at Chapel Hill	United States	51.519166	-0.128676466
+44	LMU Munich	Germany	48.15878785	11.59036741
+45	Washington University in St Louis	United States	38.6488148	-90.30654134
+46	Heidelberg University	Germany	41.11445505	-83.16691718
+47	Nanyang Technological University, Singapore	Singapore	1.3484104	103.6829797
+48	University of Sydney	Australia	-33.88902715	151.1894207
+49	Brown University	United States	41.8268682	-71.40123146
+50	Georgia Institute of Technology	United States	33.776033	-84.39884086
+51	KU Leuven	Belgium	50.86538625	4.679557576
+52	University of Queensland	Australia	-27.49741805	153.0131626
+53	Technical University of Munich	Germany	1.3078539	103.7776795
+54	Ohio State University	United States	40.0045016	-83.02853385
+55	Boston University	United States	42.35041405	-71.10167087
+56	University of California, Davis	United States	38.52247515	-121.7513927
+57	Purdue University	United States	40.4319722	-86.92389368
+58	Australian National University	Australia	-37.81354365	144.9717917
+59	University of Bristol	United Kingdom	51.4584837	-2.609775198
+60	University of Hong Kong	Hong Kong	22.28267345	114.1385492
+61	University of Copenhagen	Denmark	55.68021235	12.57226038
+62	Pennsylvania State University	United States	39.94560975	-79.65940096
+63	University of Southern California	United States	34.0224149	-118.2863441
+64	University of California, Santa Barbara	United States	34.41399165	-119.8455227
+65	University of Amsterdam	Netherlands	52.3553655	4.9501644
+66	University of Minnesota	United States	44.97308605	-93.23708813
+67	Utrecht University	Netherlands	52.08340265	5.148284942
+68	University of New South Wales	Australia	-33.78030875	151.2575774
+69	Monash University	Australia	-37.8774135	145.0449825
+70	University of Groningen	Netherlands	53.21967825	6.562514822
+71	Leiden University	Netherlands	52.1606643	4.486069325
+72	University of Pittsburgh	United States	40.44415295	-79.96243993
+73	Rice University	United States	29.71679145	-95.40478113
+74	University of Helsinki	Finland	60.17103775	24.94915065
+75	Erasmus University Rotterdam	Netherlands	51.922842	4.4874501
+76	University of Glasgow	United Kingdom	55.87230815	-4.289225443
+77	University of Zurich	Switzerland	47.49685775	8.729818832
+78	Pierre and Marie Curie University	France	48.8468997	2.357448653
+79	Lund University	Sweden	55.7039571	13.1902011
+80	Uppsala University	Sweden	59.8394451	17.64811697
+81	University of Geneva	Switzerland	42.87500835	-77.00776949
+82	Ghent University	Belgium	51.00794735	3.71088105
+83	Korea Advanced Institute of Science and Technology (KAIST)	South Korea	36.369388	127.364025
+84	Emory University	United States	33.7915703	-84.31837262
+85	Fudan University	China	31.30104395	121.500455
+86	University of Alberta	Canada	53.527159	-113.5246736
+87	University of Colorado Boulder	United States	40.00687815	-105.272776
+88	McMaster University	Canada	43.26336945	-79.91810009
+89	Aarhus University	Denmark	56.1672052	10.20260887
+90	London School of Economics and Political Science	United Kingdom	51.51442905	-0.116588403
+91	École Polytechnique	France	48.71408515	2.213080878
+92	Chinese University of Hong Kong	Hong Kong	22.413656	114.2099405
+93	University of California, Irvine	United States	33.6431901	-117.8401649
+94	Dartmouth College	United States	43.7047927	-72.2925909
+95	Michigan State University	United States	42.718568	-84.47791571
+96	University of Sheffield	United Kingdom	53.3815248	-1.480681425
+97	Vanderbilt University	United States	36.14422155	-86.80274129
+98	National Taiwan University	Taiwan	25.01682835	121.5384692
+99	Osaka University	Japan	34.4139318	135.3031836
+100	University of Virginia	United States	38.0353682	-78.5035322
+101	Delft University of Technology	Netherlands	51.99882735	4.373960368
+102	University of Oslo	Norway	59.9412772	10.720663
+103	University of Basel	Switzerland	47.5612651	7.5752961
+104	University of Florida	United States	29.6328784	-82.3490133
+105	University of Nottingham	United Kingdom	52.9385099	-1.171539433
+106	Lomonosov Moscow State University	Russian Federation	55.70229715	37.53179777
+107	University of Montreal	Canada	45.4955911	-73.5775043
+108	University of Western Australia	Australia	-31.9740037	115.8208754
+109	Trinity College Dublin	Ireland	53.3431615	-6.257707
+110	University of Birmingham	United Kingdom	52.45044325	-1.931961341
+111	University of Southampton	United Kingdom	50.89273635	-1.394642947
+112	University of Leeds	United Kingdom	53.80387185	-1.55245712
+113	Shanghai Jiao Tong University	China	31.02768865	121.4322109
+114	University of Warwick	United Kingdom	52.3793131	-1.5604252
+115	Hong Kong University of Science and Technology	Hong Kong	22.3386304	114.2620337
+116	University of Freiburg	Germany	47.993544	7.84595
+117	Hebrew University of Jerusalem	Israel	31.7918555	35.244723
+118	Wageningen University & Research	Netherlands	51.98527485	5.663705052
+119	University of Rochester	United States	43.1576983	-77.58829256
+120	University of Tübingen	Germany	48.1185046	9.8037842
+121	Radboud University Nijmegen	Netherlands	51.82206185	5.864576315
+122	Technical University of Denmark	Denmark	55.7854	12.52019888
+123	Arizona State University	United States	33.42165145	-111.9325829
+124	Tohoku University	Japan	38.2530945	140.8736593
+125	Durham University	United Kingdom	54.77285725	-1.574016029
+126	University of Göttingen	Germany	51.52850795	9.932326043
+127	Zhejiang University	China	30.19331415	120.1193082
+128	University of Science and Technology of China	China	31.83907195	117.2642075
+129	Queen Mary University of London	United Kingdom	51.5247272	-0.039310347
+130	KTH Royal Institute of Technology	Sweden	59.34986645	18.07063213
+131	Sungkyunkwan University (SKKU)	South Korea	37.588223	126.993604
+132	Texas A&M University	United States	25.2043573	55.15064515
+133	RWTH Aachen University	Germany	50.7791703	6.067287329
+134	University of Arizona	United States	33.45205165	-112.0636789
+135	University of Bern	Switzerland	46.9509023	7.43867624
+136	Paris-Sud University	France	48.84145965	2.34681006
+137	Cardiff University	United Kingdom	51.4879961	-3.179697474
+138	Case Western Reserve University	United States	41.50138695	-81.60070216
+139	Stockholm University	Sweden	59.3644838	18.05844468
+140	University of Bonn	Germany	50.733798	7.1022309
+141	Korea University	South Korea	37.5891545	127.0326718
+142	Rutgers, the State University of New Jersey	United States	40.498255	-74.446796
+143	Pohang University of Science and Technology	South Korea	36.0172898	129.323921
+144	Karlsruhe Institute of Technology	Germany	49.10184375	8.433125596
+145	University of Lausanne	Switzerland	37.99081515	23.73047038
+146	Vrije Universiteit Amsterdam	Netherlands	52.33418005	4.86690055
+147	University of Adelaide	Australia	-34.9189226	138.6042367
+148	Université Catholique de Louvain	Belgium	50.6697934	4.61543
+149	Georgetown University	United States	38.90893925	-77.07457962
+150	University of Notre Dame	United States	41.70456775	-86.23822026
+151	University of Barcelona	Spain	41.43744085	2.144423284
+152	Tokyo Institute of Technology	Japan	35.5167538	139.4834225
+153	Tufts University	United States	42.40629165	-71.1197505
+154	Nanjing University	China	32.0565957	118.7740883
+155	Indiana University	United States	39.86948105	-84.87956905
+156	Maastricht University	Netherlands	50.84575885	5.687397077
+157	City University of Hong Kong	Hong Kong	22.34000115	114.1697029
+158	Yonsei University (Seoul campus)	South Korea	37.56783525	126.9393781
+159	University of Auckland	New Zealand	-36.84847945	174.7717277
+160	Humboldt University of Berlin	Germany	52.51875095	13.39355165
+161	TU Dresden	Germany	51.0288309	13.73605842
+162	University of Liverpool	United Kingdom	53.406179	-2.966708186
+163	Tel Aviv University	Israel	32.1119889	34.80459702
+164	Newcastle University	United Kingdom	54.98023235	-1.61452627
+165	Free University of Berlin	Germany	52.452513	13.289689
+166	Université Libre de Bruxelles	Belgium	50.8132839	4.381452465
+167	University of Vienna	Austria	48.2131302	16.36068653
+168	University of Exeter	United Kingdom	50.7369302	-3.536476717
+169	Nagoya University	Japan	43.5320007	143.6141722
+170	University of São Paulo	Brazil	-23.56096405	-46.72770807
+171	University of California, Santa Cruz	United States	36.991351	-122.060925
+172	University of Miami	United States	25.7173339	-80.27866887
+173	University of Calgary	Canada	51.0784038	-114.1287077
+174	Autonomous University of Barcelona	Spain	41.502722	2.104463
+175	University of Hamburg	Germany	53.566551	9.984534
+176	University of St Andrews	United Kingdom	56.3411984	-2.7930938
+177	University of York	United Kingdom	53.94540365	-1.031388783
+178	University of Bologna	Italy	44.4947702	11.3558967
+179	Hong Kong Polytechnic University	Hong Kong	22.304572	114.1797629
+180	University of Aberdeen	United Kingdom	57.16408	-2.1017651
+181	University of Erlangen-Nuremberg	Germany	49.597872	11.004538
+182	University of Massachusetts	United States	42.3889785	-72.5286987
+183	Eindhoven University of Technology	Netherlands	51.4486602	5.490399566
+184	Paris Diderot University – Paris 7	France	48.829368	2.381676
+185	Sapienza University of Rome	Italy	41.903738	12.514413
+186	University of Bergen	Norway	40.7773237	-73.7226313
+187	Western University	Canada	13.92104195	100.7039833
+188	University of Münster	Germany	51.96733855	7.599247298
+189	University of Sussex	United Kingdom	50.86794365	-0.087856128
+190	Technical University of Berlin	Germany	52.512519	13.32688
+191	University of Cape Town	South Africa	-33.95828745	18.45997349
+192	Kyushu University	Japan	33.59914655	130.2235985
+193	University of Leicester	United Kingdom	52.6273753	-1.120971197
+194	Goethe University Frankfurt	Germany	50.1716692	8.6279846
+195	University of Cologne	Germany	50.733798	7.1022309
+196	University of Gothenburg	Sweden	57.6985351	11.97124815
+197	Technion Israel Institute of Technology	Israel	32.7767536	35.02414529
+198	University of Utah	United States	40.76272475	-111.8396595
+199	University of Illinois at Chicago	United States	41.86898915	-87.64856256
+200	University of Ottawa	Canada	45.42580475	-75.68740118
+201	University of Waterloo	Canada	43.47061295	-80.54495797
+202	University of Reading	United Kingdom	51.4499995	-0.961407779
+203	University of California, Riverside	United States	33.97467365	-117.3368515
+204	Grenoble Alpes University	France	45.1626022	5.7135209
+205	Lancaster University	United Kingdom	54.0088818	-2.787377276
+206	University of Antwerp	Belgium	51.22281	4.410114
+207	University College Dublin	Ireland	53.305358	-6.220682
+208	University of Dundee	United Kingdom	56.45796755	-2.982148314
+209	Hokkaido University	Japan	43.07900775	141.3377295
+210	Hanyang University	South Korea	37.5551257	127.0447098
+211	North Carolina State University	United States	35.771213	-78.67392082
+212	Chalmers University of Technology	Sweden	57.6896523	11.9766811
+213	Norwegian University of Science and Technology	Norway	63.41653395	10.40668012
+214	Aalto University	Finland	60.18558755	24.8242733
+215	University of Iowa	United States	41.6655219	-91.5721928
+216	University of Otago	New Zealand	-45.86508895	170.5138522
+217	Aix-Marseille University	France	43.30556425	5.378613246
+218	Pompeu Fabra University	Spain	41.38803135	2.1108863
+219	Queen’s University Belfast	United Kingdom	54.58435885	-5.933667877
+220	École Normale Supérieure de Lyon	France	45.7297811	4.826581922
+221	Northeastern University	United States	42.3383668	-71.08793524
+222	Ulm University	Germany	32.5286412	-92.07244061
+223	Queen’s University	Canada	44.2262145	-76.49514524
+224	University of Twente	Netherlands	52.2380139	6.8566761
+225	University of East Anglia	United Kingdom	52.6221571	1.2409136
+226	George Washington University	United States	38.9044038	-77.04780341
+227	University of Colorado Denver	United States	39.74284255	-105.0059328
+228	University of Kiel	Germany	54.33250755	10.18003052
+229	Stony Brook University	United States	40.9072198	-73.1091896
+230	University of Würzburg	Germany	49.782953	9.970954
+231	University of Padua	Italy	-31.3943049	-58.0122554
+232	University of Milan	Italy	45.4497194	9.188708076
+233	University at Buffalo	United States	43.0015201	-78.7870697
+234	University of Strasbourg	France	48.52307065	7.736952784
+235	Brandeis University	United States	42.3663164	-71.25798773
+236	Vrije Universiteit Brussel	Belgium	50.84206275	4.322919205
+237	Dalhousie University	Canada	44.63634665	-63.59219964
+238	Florida State University	United States	30.44235995	-84.29747867
+239	University of the Witwatersrand	South Africa	-26.1888813	28.02479073
+240	Autonomous University of Madrid	Spain	40.546699	-3.694376
+241	University of Delaware	United States	39.6810328	-75.7540184
+242	University of Innsbruck	Austria	47.8495216	13.3419939
+243	University of Stuttgart	Germany	48.9095338	9.1831892
+244	Macquarie University	Australia	-33.7774154	151.1181406
+245	Scuola Normale Superiore di Pisa	Italy	43.71966865	10.40042846
+246	Polytechnic University of Milan	Italy	45.478092	9.227276
+247	National Tsing Hua University	Taiwan	24.79172355	120.9922071
+248	Laval University	Canada	46.781607	-71.274796
+249	Ruhr University Bochum	Germany	51.44410885	7.260892448
+250	Sun Yat-sen University	China	23.0946565	113.2957647
+251	Johannes Gutenberg University of Mainz	Germany	49.992666	8.241572
+252	Indian Institute of Science	India	13.0222347	77.56718325
+253	University of Bath	United Kingdom	51.3791442	-2.3252332
+254	Karolinska Institute	Sweden	59.348181	18.023583
+255	Simon Fraser University	Canada	49.2767454	-122.9177737
+256	University of Cincinnati	United States	39.1318525	-84.51575991
+257	National University of Ireland, Galway	Ireland	53.27639715	-9.058299607
+258	Umeå University	Sweden	63.82015745	20.31466632
+259	University of Wollongong	Australia	-34.40505545	150.8783465
+260	Technical University of Darmstadt	Germany	49.874757	8.656022
+261	Moscow Institute of Physics and Technology	Russian Federation	55.929035	37.51866808
+262	University of Hawai’i at Mānoa	United States	21.2982795	-157.8186923
+263	Charles University in Prague	Czech Republic	50.0889154	14.41613721
+264	University of Kansas	United States	38.9538529	-95.26313786
+265	University of Newcastle	Australia	-33.3578968	151.3783292
+266	Montpellier University	France	43.62230565	3.861896345
+267	University of Maryland, College Park	United States	38.99203005	-76.9461029
+268	Iowa State University	United States	42.02791015	-93.64464415
+269	Oregon State University	United States	45.5198289	-122.6779796
+270	University of Liège	Belgium	50.63707245	5.562333323
+271	Wake Forest University	United States	36.134335	-80.2781152
+272	University of Georgia	United States	10.2829	-84.798143
+273	Boston College	United States	42.3352916	-71.1703275
+274	Queensland University of Technology	Australia	-27.47715625	153.02841
+275	University of Connecticut	United States	41.8092648	-72.2536899
+276	University of South Florida	United States	28.0599999	-82.41383619
+277	Linköping University	Sweden	58.403261	15.62361119
+278	Keio University	Japan	35.64883905	139.7427707
+279	Complutense University of Madrid	Spain	40.4478	-3.728587
+280	Virginia Polytechnic Institute and State University	United States	37.21872455	-80.42542519
+281	Vienna University of Technology	Austria	48.19853965	16.36986168
+282	Aalborg University	Denmark	57.0159232	9.975323747
+283	Royal Holloway, University of London	United Kingdom	51.425686	-0.563098
+284	James Cook University	Australia	1.3749872	103.8290546
+285	University of Tsukuba	Japan	36.10704285	140.100687
+286	University of Texas at Dallas	United States	32.9862442	-96.75109567
+287	University of Southern Denmark	Denmark	55.36782265	10.42820011
+288	University of Tennessee, Knoxville	United States	35.9542493	-83.9307395
+289	Griffith University	Australia	-27.5533975	153.0533623
+290	National Cheng Kung University (NCKU)	Taiwan	22.99992775	120.2198378
+291	University of Victoria	Canada	48.46205995	-123.3114198
+292	University of Malaya	Malaysia	3.12267405	101.653561
+293	Deakin University	Australia	-38.1438772	144.3609811
+294	CentraleSupélec	France	48.70814485	2.162610741
+295	Colorado State University	United States	40.556836	-105.08274
+296	Curtin University	Australia	-32.00574155	115.8928644
+297	Drexel University	United States	39.9574	-75.19026706
+298	University of Surrey	United Kingdom	51.24303255	-0.590013825
+299	Rensselaer Polytechnic Institute	United States	42.7357483	-73.67296098
+300	National Chiao Tung University	Taiwan	24.78676765	120.9972441
+301	University of Pisa	Italy	43.7201299	10.4078976
+302	University of Tasmania	Australia	-42.9070751	147.3215168
+303	University of Turku	Finland	60.45596125	22.28600076
+304	University of Lisbon	Portugal	38.75109295	-9.156203506
+305	University of Oulu	Finland	65.0592157	25.46632573
+306	University of Bordeaux	France	32.866276	-117.244759
+307	University of Canterbury	New Zealand	-43.5240528	172.5803063
+308	University of Technology Sydney	Australia	-33.883084	151.2021577
+309	University of Navarra	Spain	42.801494	-1.65973
+310	Wayne State University	United States	42.35284605	-83.064063
+311	Pontifical Catholic University of Chile	Chile	-33.441173	-70.640815
+312	Kyung Hee University	South Korea	37.24244775	127.0802927
+313	University of Nebraska-Lincoln	United States	40.8206003	-96.70167774
+314	University of Eastern Finland	Finland	62.60434405	29.74223746
+315	Stellenbosch University	South Africa	-33.9077457	18.61361668
+316	Claude Bernard University Lyon 1	France	45.778865	4.867832
+317	University of Tartu	Estonia	58.3803693	26.71921337
+318	Wuhan University	China	30.5401222	114.3594147
+319	Harbin Institute of Technology	China	45.7567197	126.6781272
+320	Saint Petersburg State University	Russian Federation	59.94186255	30.29726066
+321	State University of Campinas	Brazil	-22.818429	-47.064785
+322	University of Houston	United States	29.7207902	-95.34406271
+323	University of Florence	Italy	34.8078655	-87.6791954
+324	University of South Australia	Australia	-37.8062142	140.766463
+325	Huazhong University of Science and Technology	China	30.507886	114.413687
+326	University of Konstanz	Germany	47.689402	9.186864
+327	University of Duisburg-Essen	Germany	51.4296271	6.78470694
+328	Washington State University	United States	45.73100425	-122.6339178
+329	Brunel University London	United Kingdom	51.53260365	-0.474014018
+330	National Autonomous University of Mexico	Mexico	19.32160475	-99.184905
+331	University of Oregon	United States	44.0445359	-123.0717345
+332	University of Alabama at Birmingham	United States	33.50122585	-86.80538672
+333	University College Cork	Ireland	51.893435	-8.4920353
+334	Waseda University	Japan	33.88987795	130.7085809
+335	Tongji University	China	31.28473925	121.4969491
+336	Ecole Normale Superieure - Paris	France	48.84170715	2.344792313
+337	University of Porto	Portugal	41.17833515	-8.596253892
+338	University of Marburg	Germany	50.810666	8.774078
+339	King Saud University	Saudi Arabia	24.717254	46.6194247
+340	University of Potsdam	Germany	52.40151165	13.00988186
+341	University of Rome II – Tor Vergata	Italy	43.66333345	-79.39769975
+342	Chulalongkorn University	Thailand	13.74311795	100.532879
+343	Gwangju Institute of Science and Technology	South Korea	35.22696	126.8413675
+344	Xiamen University	China	24.4399419	118.0930178
+345	Indian Institute of Technology Delhi	India	28.5444176	77.1893001
+346	University of Bremen	Germany	53.10796455	8.855664593
+347	Tulane University	United States	29.94121955	-90.12010089
+348	Tilburg University	Netherlands	51.56306085	5.043598468
+349	University of Missouri	United States	38.94429415	-92.32647881
+350	University of Turin	Italy	45.4173818	7.747685875
+351	University of Manitoba	Canada	49.8091536	-97.13304179
+352	York University	Canada	43.7743911	-79.50481085
+353	Louisiana State University	United States	30.40550035	-91.18620474
+354	Ewha Womans University	South Korea	37.56394455	126.9475258
+355	Xi’an Jiaotong University	China	34.2474949	108.9789875
+356	University of Pavia	Italy	32.3052404	-106.7429643
+357	University of Strathclyde	United Kingdom	55.86189435	-4.241866221
+358	King Abdulaziz University	Saudi Arabia	21.4964412	39.2489498
+359	University of Chile	Chile	32.2890655	-106.7623818
+360	Polytechnic University of Catalonia	Spain	41.387964	2.113302
+361	Loughborough University	United Kingdom	52.7627822	-1.239681923
+362	La Trobe University	Australia	-36.7784754	144.298047
+363	Oregon Health and Science University	United States	45.499038	-122.6856953
+364	University of Oklahoma	United States	35.1915227	-97.4434769
+365	University of Vermont	United States	44.47731115	-73.20196539
+366	University of Trento	Italy	46.0662279	11.1163233
+367	Federal University of Rio de Janeiro	Brazil	-22.9542	-43.175493
+368	University of Fribourg	Switzerland	47.9946746	7.8472292
+369	Heriot-Watt University	United Kingdom	25.1295897	55.4167371
+370	Syracuse University	United States	43.01890185	-76.11918148
+371	University of South Carolina	United States	33.9928298	-81.02682712
+372	Hiroshima University	Japan	34.4019766	132.7123195
+373	University of Essex	United Kingdom	51.87703035	0.950078859
+374	Justus Liebig University Giessen	Germany	50.580514	8.678025
+375	King Fahd University of Petroleum and Minerals	Saudi Arabia	26.306111	50.151944
+376	Bangor University	United Kingdom	53.2254127	-4.141068156
+377	University of Tampere	Finland	61.49412325	23.77920678
+378	Tokyo Medical and Dental University (TMDU)	Japan	35.701255	139.764419
+379	Leibniz University of Hanover	Germany	52.382964	9.719602
+380	William & Mary	United States	-41.7527641	173.9324003
+381	Indian Institute of Technology Bombay	India	19.133423	72.913257
+382	Birkbeck, University of London	United Kingdom	51.522299	-0.130682
+383	Ben-Gurion University of the Negev	Israel	31.2631254	34.80225094
+384	University of Bayreuth	Germany	49.928826	11.585852
+385	Medical University of Vienna	Austria	48.220378	16.351527
+386	University of Granada	Spain	32.842027	-96.793784
+387	University of Saskatchewan	Canada	52.13441935	-106.6277768
+388	Tianjin University	China	38.9921309	117.3063314
+389	Bielefeld University	Germany	52.0380023	8.492379533
+390	Victoria University of Wellington	New Zealand	-41.29164665	174.7675554
+391	Scuola Superiore Sant’Anna	Italy	43.7206078	10.4026444
+392	University of Coimbra	Portugal	40.2075951	-8.425661475
+393	Massey University	New Zealand	-41.30005925	174.7765824
+394	Temple University	United States	39.9546285	-75.15349037
+395	Polytechnic University of Valencia	Spain	39.481059	-0.341088
+396	Catholic University of the Sacred Heart	Italy	45.462101	9.177139
+397	Aristotle University of Thessaloniki	Greece	40.62984145	22.9588935
+398	Bar-Ilan University	Israel	32.06932925	34.84334339
+399	Kobe University	Japan	33.1936183	-87.5287546
+400	George Mason University	United States	38.885078	-77.1010391
+401	Hong Kong Baptist University	Hong Kong	22.3874201	114.2082222
+402	Flinders University	Australia	-35.02482815	138.5732552
+403	Concordia University	Canada	45.57022705	-122.6370935
+404	Swansea University	United Kingdom	51.6091578	-3.979344292
+405	Mahidol University	Thailand	13.7661878	100.5340769
+406	Southeast University	China	23.7934342	90.4016744
+407	University of Kent	United Kingdom	51.29495725	1.067406728
+408	University of Mannheim	Germany	49.4699765	8.4819024
+409	University of Jyväskylä	Finland	62.22902785	25.74003691
+410	South China University of Technology	China	23.160013	113.3370203
+411	City, University of London	United Kingdom	51.5217668	-0.130190717
+412	American University of Beirut	Lebanon	33.9014509	35.48193028
+413	Shandong University	China	37.5308282	122.0551711
+414	University of Maryland, Baltimore	United States	39.2894478	-76.62630185
+415	University of Trieste	Italy	41.634709	-85.0052376
+416	University of Warsaw	Poland	52.23780765	21.01721746
+417	Lehigh University	United States	40.6068028	-75.3782488
+418	University of Maryland, Baltimore County	United States	39.25817605	-76.71198839
+419	Polytechnic University of Turin	Italy	45.062492	7.662224
+420	University of Alabama	United States	33.21208215	-87.53967402
+421	University of Milan-Bicocca	Italy	45.518368	9.213463
+422	National and Kapodistrian University of Athens	Greece	37.98089435	23.73401654
+423	Vita-Salute San Raffaele University	Italy	45.506837	9.267296
+424	UiT The Arctic University of Norway	Norway	68.4359145	17.43506716
+425	University of Iceland	Iceland	64.137274	-21.94561454
+426	Dalian University of Technology	China	38.88140235	121.522811
+427	University of Genoa	Italy	42.255952	-71.835665
+428	St George’s, University of London	United Kingdom	51.4276061	-0.1750385
+429	University of Valencia	Spain	39.51510135	-0.424512333
+430	Paris-Sorbonne University – Paris 4	France	48.848441	2.343234
+431	RMIT University	Australia	-37.8087465	144.9638875
+432	Swinburne University of Technology	Australia	-37.85240845	144.9918226
+433	East China Normal University	China	31.2284923	121.4021139
+434	University of Graz	Austria	47.07810475	15.4475057
+435	Renmin University of China	China	39.96976785	116.3070917
+436	Technical University of Dortmund	Germany	51.492698	7.412839
+437	Chiba University	Japan	35.62786925	140.1034657
+438	Okayama University	Japan	34.6893393	133.9222272
+439	NOVA University of Lisbon	Portugal	42.947615	-78.821661
+440	Indian Institute of Technology Kharagpur	India	22.314957	87.310477
+441	Swedish University of Agricultural Sciences	Sweden	63.82015745	20.31466632
+442	Novosibirsk State University	Russian Federation	54.845815	83.09426231
+443	University of Hohenheim	Germany	48.7133801	9.212089864
+444	Colorado School of Mines	United States	39.7493161	-105.2228202
+445	École des Ponts ParisTech	France	48.84110375	2.58827325
+446	Jagiellonian University	Poland	50.03027885	19.90899497
+447	Rush University	United States	41.8736438	-87.6694981
+448	East China University of Science and Technology	China	31.14508135	121.4195085
+449	Aston University	United Kingdom	52.48620785	-1.888499151
+450	University of Buenos Aires	Argentina	-34.599878	-58.373059
+451	University of KwaZulu-Natal	South Africa	-29.62683405	30.40338182
+452	University of Denver	United States	39.6766541	-104.962203
+453	University of Aveiro	Portugal	40.6234239	-8.657743924
+454	Chang Gung University	Taiwan	36.3607717	127.3494167
+455	Georgia State University	United States	33.75246115	-84.38681125
+456	Aberystwyth University	United Kingdom	52.4173654	-4.070315004
+457	University of Crete	Greece	35.3088296	25.0832561
+458	University of Stirling	United Kingdom	56.14597865	-3.91968766
+459	University of Waikato	New Zealand	-37.78600775	175.3166859
+460	University of the Andes	Colombia	-12.0753786	-77.0415612
+461	University of Lille I	France	26.3707555	-80.10684289
+462	Dublin City University	Ireland	53.3859534	-6.2588922
+463	University of Lorraine	France	27.3864566	-82.3981369
+464	National Research Nuclear University MEPhI	Russian Federation	55.65067035	37.66607927
+465	Yeshiva University	United States	34.0555657	-118.3878557
+466	National Taiwan University of Science and Technology (Taiwan Tech)	Taiwan	25.013836	121.540615
+467	Indian Institute of Technology Madras	India	12.995218	80.237988
+468	National Yang-Ming University	Taiwan	52.45044325	-1.931961341
+469	Sichuan University	China	30.642769	104.0675118
+470	University of Delhi	India	28.5846757	77.16358981
+471	University of Modena and Reggio Emilia	Italy	44.645074	10.927927
+472	University of Hull	United Kingdom	53.77114815	-0.368437518
+473	University of Ferrara	Italy	30.5245191	-90.4847145
+474	University of Ulsan	South Korea	35.51935875	129.4292212
+475	Florida International University	United States	25.75533775	-80.37628897
+476	Beijing Institute of Technology	China	39.9586652	116.3097128
+477	Indian Institute of Technology Roorkee	India	29.8662461	77.89587081
+478	Chonnam National University	South Korea	35.175917	126.908564
+479	Federal University of São Paulo (UNIFESP)	Brazil	-23.591665	-46.649044
+480	Pusan National University	South Korea	35.2326064	129.0828055
+481	Chonbuk National University	South Korea	35.8452946	127.1330053
+482	Université de Versailles Saint-Quentin-en-Yvelines	France	48.78215115	2.217186659
+483	Boğaziçi University	Turkey	40.90698	31.18339123
+484	Clark University	United States	42.2510477	-71.8231517
+485	National Central University	Taiwan	24.96841805	121.191397
+486	San Diego State University	United States	32.7748159	-117.0738505
+487	Beihang University	China	39.98082975	116.3410124
+488	Bilkent University	Turkey	39.8720489	32.75395155
+489	University of Bari Aldo Moro	Italy	41.120603	16.868507
+490	Saint Louis University	United States	38.6354613	-90.23203664
+491	Medical University of Graz	Austria	47.079603	15.467419
+492	University of Brescia	Italy	37.7689374	-87.1113859
+493	Universiti Sains Malaysia	Malaysia	5.3556377	100.3020378
+494	University of Paris Descartes (Paris 5)	France	48.851243	2.340784
+495	Federal University of Rio Grande do Sul	Brazil	-30.033877	-51.218565
+496	Beijing Normal University	China	39.96014155	116.3597044
+497	Kyungpook National University	South Korea	35.89056185	128.6108361
+498	Federal University of Minas Gerais	Brazil	-19.869108	-43.966502
+499	University of the Basque Country	Spain	43.30927695	-2.010667847
+500	Indian Institute of Technology Kanpur	India	26.512377	80.232975
+501	Graz University of Technology	Austria	47.05821	15.46019568
+502	Goldsmiths, University of London	United Kingdom	51.474264	-0.035412
+503	Johannes Kepler University of Linz	Austria	48.335802	14.320928
+504	Tampere University of Technology	Finland	61.44964205	23.85877462
+505	Sciences Po	France	48.85389775	2.329021231
+506	Tomsk Polytechnic University	Russian Federation	56.46255985	84.95565495
+507	Nankai University	China	39.1018241	117.1609371
+508	Central South University	China	31.99926655	-81.10530941
+509	University of Jena	Germany	50.929553	11.589825
+510	Université de Sherbrooke	Canada	45.3783078	-71.92847002
+511	Konkuk University	South Korea	37.5417381	127.0768708
+512	University of Alaska Fairbanks	United States	64.85853945	-147.8365116
+513	University of Santiago de Compostela	Spain	42.87429695	-8.55595263
+514	University of Zaragoza	Spain	41.6835948	-0.8843201
+515	Higher School of Economics	Russian Federation	55.76108225	37.63259451
+516	Middle East Technical University	Turkey	39.87549675	32.78553506
+517	Plymouth University	United Kingdom	50.3755269	-4.139376874
+518	Western Sydney University	Australia	-33.7697359	150.7292595
+519	Shanghai University	China	31.32235655	121.3840094
+520	Khalifa University	United Arab Emirates	24.4469025	54.3942563
+521	Universiti Putra Malaysia	Malaysia	2.993414	101.7149846
+522	University of Portsmouth	United Kingdom	50.79805775	-1.098349112
+523	Qatar University	Qatar	25.37504915	51.48993782
+524	University of Québec	Canada	45.4955911	-73.5775043
+525	Carleton University	Canada	45.3808074	-75.6999475
+526	Murdoch University	Australia	-32.07161405	115.8335009
+527	Kanazawa University	Japan	35.33330875	139.6179304
+528	China Agricultural University	China	40.0257488	116.2739898
+529	Hunan University	China	28.2293489	112.9944949
+530	The University of New Mexico - Albuquerque	United States	35.08663275	-106.6202094
+531	Masaryk University	Czech Republic	49.8376738	18.2864292
+532	Texas Tech University	United States	33.59375255	-101.8995955
+533	Czech Technical University in Prague	Czech Republic	50.0762578	14.41842864
+534	Osaka City University	Japan	34.5935472	135.5038278
+535	Eötvös Loránd University	Hungary	47.4934799	19.06189933
+536	São Paulo State University (UNESP)	Brazil	-22.649611	-50.437522
+537	Soas, University of London	United Kingdom	51.52233	-0.129259
+538	Oklahoma State University	United States	36.1295801	-97.08853715
+539	Ulsan National Institute of Science and Technology	South Korea	35.572477	129.190332
+540	Kansas State University	United States	39.2087029	-96.5884441
+541	Kumamoto University	Japan	32.833696	130.6990269
+542	American University	United States	38.93775105	-77.08948236
+543	Technical University of Madrid	Spain	40.448645	-3.719323
+544	Paul Sabatier University (Toulouse 3)	France	43.560378	1.468857
+545	University of Macau	Macao	22.1526495	113.5680532
+546	Lincoln University	New Zealand	39.8087194	-75.926889
+547	University of Ljubljana	Slovenia	46.0506379	14.46771245
+548	University of Siena	Italy	22.34000115	114.1697029
+549	Oxford Brookes University	United Kingdom	51.7555205	-1.2261597
+550	National Taiwan Normal University	Taiwan	25.0256994	121.5266044
+551	Keele University	United Kingdom	53.0016756	-2.270694219
+552	Memorial University of Newfoundland	Canada	47.5727251	-52.73305444
+553	Auckland University of Technology	New Zealand	-36.85438645	174.765797
+554	Kent State University	United States	41.1443525	-81.33982833
+555	Sabancı University	Turkey	40.8927159	29.37863323
+556	University of Leipzig	Germany	51.3677833	12.7379544
+557	University of Science and Technology Beijing	China	39.9897733	116.3532656
+558	University of Parma	Italy	43.8009949	-116.943487
+559	University of Seville	Spain	32.29723625	-106.763571
+560	Soochow University	China	31.3070951	120.6357399
+561	École Normale Supérieure de Cachan	France	48.788902	2.327256
+562	University of St Gallen	Switzerland	47.432134	9.375552
+563	Auburn University	United States	32.59197975	-85.49608586
+564	University of Naples Federico II	Italy	40.845476	14.257677
+565	University of Nantes	France	47.209572	-1.556004
+566	China Medical University, Taiwan	Taiwan	24.15685	120.6800382
+567	Panthéon-Sorbonne University – Paris 1	France	48.846943	2.344408
+568	Universiti Kebangsaan Malaysia	Malaysia	2.92912005	101.7783355
+569	Inha University	South Korea	37.4481471	126.6498421
+570	University of Nebraska Medical Center	United States	41.2563046	-95.97783747
+571	Amirkabir University of Technology	Iran	35.7045144	51.40972233
+572	Kazan Federal University	Russian Federation	55.79069515	49.12192908
+573	Tokyo Metropolitan University	Japan	35.6200925	139.3829671
+574	Sharif University of Technology	Iran	35.70361	51.351507
+575	Baylor University	United States	30.4255147	-97.7042754
+576	University of Canberra	Australia	-35.2372172	149.0840659
+577	Indiana University-Purdue University at Indianapolis	United States	39.77388	-86.176335
+578	University of Montana	United States	46.86087925	-113.9851417
+579	University of Wisconsin-Milwaukee	United States	43.07797955	-87.88181532
+580	Verona University	Italy	45.520881	-122.6806572
+581	Charles Darwin University	Australia	-12.3713128	130.8684017
+582	Université Lille 2 Droit et Santé	France	50.6281	3.1031
+583	Carlos III University of Madrid	Spain	40.316933	-3.727069
+584	Jilin University	China	43.84308065	125.3238807
+585	Binghamton University, State University of New York	United States	42.089339	75.969834
+586	Royal College of Surgeons in Ireland	Ireland	53.33917155	-6.262939103
+587	University of Arkansas	United States	36.065152	-94.17609534
+588	University of Hertfordshire	United Kingdom	51.76164775	-0.248371825
+589	University of Catania	Italy	37.503539	15.086552
+590	Tomsk State University	Russian Federation	56.46958965	84.94677014
+591	University of Minho	Portugal	41.559937	-8.396762
+592	Bond University	Australia	-28.073868	153.4168487
+593	University of California, San Francisco	United States	37.768369	-122.392621
+594	University of Palermo	Italy	32.72147705	-117.1643169
+595	Paris Sciences et Lettres – PSL Research University Paris	France	48.854658	2.337817
+596	Cairo University	Egypt	30.02716175	31.20586149
+597	Monterrey Institute of Technology and Higher Education	Mexico	25.65156	-100.289544
+598	Missouri University of Science and Technology	United States	37.95260515	-91.7763609
+599	National Sun Yat-Sen University	Taiwan	22.6264329	120.2658575
+600	University of Kentucky	United States	38.0333742	-84.5017758
+601	Rockefeller University	United States	40.76241855	-73.95582499
+602	United Arab Emirates University	United Arab Emirates	24.1986813	55.6769692
+603	Örebro University	Sweden	59.2544839	15.2498899
+604	Tokyo University of Agriculture and Technology	Japan	35.6996507	139.5184956
+605	Marche Polytechnic University	Italy	43.617136	13.512744
+606	University of Greifswald	Germany	54.095063	13.374563
+607	University of Alcalá	Spain	32.7726805	-117.1889766
+608	Maynooth University	Ireland	53.38479195	-6.601046124
+609	Yokohama City University	Japan	35.33330875	139.6179304
+610	University of Pretoria	South Africa	-25.7542559	28.2321043
+611	University of Regensburg	Germany	48.998681	12.094547
+612	National Institute of Applied Sciences of Lyon (INSA Lyon)	France	45.782916	4.878241
+613	Tokyo University of Science	Japan	35.6995942	139.7426558
+614	Quaid-i-azam University	Pakistan	33.747621	73.138046
+615	The University of Texas Southwestern Medical Center at Dallas	United States	32.820141	-96.842691
+616	Vilnius University	Lithuania	54.6828451	25.28750788
+617	Hacettepe University	Turkey	39.86742125	32.73519072
+618	Ajou University	South Korea	37.2886785	127.0513357
+619	University of Texas at Arlington	United States	32.731155	-97.1150166
+620	Charité - Universitätsmedizin Berlin	Germany	52.52578735	13.37702823
+621	Sejong University	South Korea	37.55052765	127.0743907
+622	Weizmann Institute of Science	Israel	31.9077705	34.81323333
+623	University of Rome III	Italy	41.862029	12.479562
+624	Taipei Medical University	Taiwan	25.02532085	121.5614418
+625	University of Guelph	Canada	43.5331903	-80.22352831
+626	University of Texas at San Antonio	United States	29.58343345	-98.61911843
+627	Comenius University in Bratislava	Slovakia	48.141207	17.115219
+628	Virginia Commonwealth University	United States	37.548215	-77.45306424
+629	Istanbul Technical University	Turkey	41.10427915	29.02231159
+630	University of Salerno	Italy	35.3229297	-80.7440056
+631	American University in Cairo	Egypt	30.04287695	31.23664139
+632	Sogang University	South Korea	37.5521044	126.9409839
+633	The Open University	United Kingdom	32.77824165	34.99565673
+634	University of Halle-Wittenberg	Germany	51.486132	11.969528
+635	Jordan University of Science and Technology	Jordan	32.49566485	35.99160717
+636	University of Luxembourg	Luxembourg	49.62318335	6.112772816
+637	University of Duesseldorf	Germany	51.192429	6.793531
+638	Copenhagen Business School	Denmark	55.68160305	12.52939715
+639	American University of Sharjah	United Arab Emirates	25.31204	55.492659
+640	University of Limerick	Ireland	52.67375155	-8.570985623
+641	University of Salamanca	Spain	18.401789	-66.059522
+642	Ulster University	United Kingdom	54.60442225	-5.929052801
+643	Pontifical Javeriana University	Colombia	4.628404	-74.06494
+644	University of Rovira i Virgili	Spain	41.119637	1.260518
+645	The University of Texas M. D. Anderson Cancer Center	United States	29.707195	-95.396893
+646	University of Tehran	Iran	35.7037727	51.3991746
+647	Norwegian University of Life Sciences	Norway	59.6679155	10.76219874
+648	Creighton University	United States	41.26610645	-95.94507872
+649	University of Haifa	Israel	32.76162915	35.01986304
+650	Chung-Ang University	South Korea	37.50882	126.9619
+651	University of Szeged	Hungary	46.25005085	20.14649428
+652	Lappeenranta University of Technology	Finland	61.0648969	28.0938256
+653	Baylor College of Medicine	United States	29.7104775	-95.39580027
+654	Semmelweis University	Hungary	48.3018659	14.31111065
+655	Victoria University	Australia	-37.5958671	144.7278267
+656	Central China Normal University	China	30.8200758	106.0654774
+657	Palacký University in Olomouc	Czech Republic	49.595441	17.259972
+658	New Jersey Institute of Technology	United States	40.7423025	-74.17928172
+659	Capital Medical University	China	14.44833255	120.9856253
+660	Universiti Teknologi Malaysia	Malaysia	1.5584128	103.6400236
+661	Southern Methodist University	United States	32.8420883	-96.78413593
+662	Illinois Institute of Technology	United States	41.8361963	-87.62656511
+663	Montana State University	United States	45.6639448	-111.0764709
+664	Icahn School of Medicine at Mount Sinai	United States	40.789861	-73.95336
+665	University of Bradford	United Kingdom	53.79237145	-1.766710766
+666	Nagasaki University	Japan	32.7861999	129.865345
+667	University of Ioannina	Greece	39.6162306	20.83963011
+668	University of Calabria	Italy	32.865689	-117.20441
+669	University of Kaiserslautern	Germany	49.4290032	7.7747854
+670	Hasselt University	Belgium	50.9254091	5.390730675
+671	Saarland University	Germany	49.2545928	7.040891407
+672	National Technical University of Athens	Greece	37.98782705	23.73179733
+673	University of Oviedo	Spain	28.6212408	-81.2133017
+674	Central Queensland University	Australia	-27.467384	153.0242227
+675	University of Windsor	Canada	42.30527345	-83.0665552
+676	Makerere University	Uganda	0.3355324	32.5682009
+677	University of Passau	Germany	48.56747525	13.45193779
+678	Université Bourgogne Franche-Comté (UBFC)	France	47.2481683	5.991149415
+679	Banaras Hindu University	India	25.2663747	82.9904648
+680	Lanzhou University	China	36.046772	103.8526439
+681	University of Neuchâtel	Switzerland	46.99384	6.938649
+682	Northern Arizona University	United States	35.1851087	-111.655837
+683	Middlesex University	United Kingdom	51.59029705	-0.229632209
+684	ITMO University	Russian Federation	59.94186255	30.29726066
+685	University of the Philippines	Philippines	16.377798	119.9113091
+686	Fuzhou University	China	25.0325836	121.4351277
+687	University of Massachusetts Medical School - Worcester	United States	42.2782955	-71.7622355
+688	Bauman Moscow State Technical University	Russian Federation	55.7658538	37.68489551
+689	University of Toledo	United States	41.6582432	-83.61478734
+690	Catholic University of Korea	South Korea	37.48471705	126.7249282
+691	Juntendo University	Japan	35.702287	139.7624917
+692	Warsaw University of Technology	Poland	52.22165395	21.00735776
+693	University of Patras	Greece	38.2899482	21.7886469
+694	Liverpool John Moores University	United Kingdom	53.4050747	-2.970300286
+695	University of Johannesburg	South Africa	-26.179406	28.008946
+696	University of Cagliari	Italy	39.217348	9.114921
+697	National University of Colombia	Colombia	4.63874255	-74.08523776
+698	University of Dayton	United States	39.738444	-84.17918747
+699	Peter the Great St Petersburg Polytechnic University	Russian Federation	60.0059157	30.37672932
+700	University of Brighton	United Kingdom	50.8440475	-0.120167191
+701	MINES ParisTech	France	48.8453544	2.339045797
+702	National University of Sciences and Technology	Pakistan	33.644347	72.9885079
+703	AGH University of Science and Technology	Poland	50.0657033	19.91895867
+704	Bandung Institute of Technology (ITB)	Indonesia	-6.891288	107.6103817
+705	University of Cyprus	Cyprus	35.1598788	33.37781945
+706	Belarusian State University	Belarus	53.8931763	27.54719422
+707	Indian Institute of Technology Guwahati	India	26.190195	91.691981
+708	Panjab University	India	30.759865	76.766148
+709	London School of Hygiene & Tropical Medicine	UK	51.520881	-0.130279
+710	Anglia Ruskin University	United Kingdom	52.20338815	0.135022573
+711	Babol Noshirvani University of Technology	Iran	36.5616381	52.68147895
+712	University of Indonesia	Indonesia	-7.40337015	109.2458844
+713	University of Nice Sophia Antipolis	France	43.709952	7.28968
+714	Coventry University	United Kingdom	52.4056372	-1.499722268
+715	University of Central Florida	United States	28.59899755	-81.19712501
+716	Brighton and Sussex Medical School	United Kingdom	50.8640047	-0.084007338
+717	New Mexico State University	United States	32.2767307	-106.7477432
+718	University at Albany (State University of New York)	United States	42.68435875	-73.82583423
+719	Pontifical Catholic University of Peru	Peru	-12.06895	-77.080143
+720	Royal Veterinary College	United Kingdom	51.53682365	-0.13367159
+721	University of La Laguna	Spain	14.16536935	121.2411773
+722	Free University of Bozen-Bolzano	Italy	46.4983249	11.35009579
+723	Jadavpur University	India	22.5611537	88.41310194
+724	Federico Santa María Technical University	Chile	-33.034829	-71.595635
+725	Kingston University	United Kingdom	51.43725535	-0.251575254
+726	The University of Texas Health Science Center at San Antonio	United States	29.50743	-98.57536
+727	Iran University of Science and Technology	Iran	35.74279425	51.50574054
+728	Koç University	Turkey	41.20315895	29.07286536
+729	University of Siegen	Germany	50.911209	8.025476
+730	Ca’ Foscari University of Venice	Italy	45.434479	12.326133
+731	China University of Geosciences, Wuhan	China	30.516494	114.401679
+732	Brigham Young University	United States	40.25142785	-111.6505719
+733	The University of Texas Health Science Center at Houston	United States	29.703417	-95.403037
+734	University of Zagreb	Croatia	45.80600425	16.00839356
+735	Stevens Institute of Technology	United States	40.7447992	-74.02522079
+736	Niigata University	Japan	37.8687884	138.942005
+737	Kaohsiung Medical University	Taiwan	22.64779025	120.310242
+738	National University of Science and Technology (MISiS)	Russian Federation	55.728398	37.609076
+739	University of Tulsa	United States	36.1523237	-95.94596153
+740	Medical University of South Carolina	United States	32.7855301	-79.95025241
+741	University of Côte d’Azur	France	43.553219	6.967505
+742	Edith Cowan University	Australia	-31.9192816	115.8691215
+743	University of Perugia	Italy	43.116533	12.387439
+744	Cyprus University of Technology	Cyprus	34.67592105	33.04476517
+745	Federal University of Toulouse Midi-Pyrénées	France	43.594372	1.45063
+746	Northeast Normal University	China	43.8272664	125.4227754
+747	Istanbul University	Turkey	41.00474265	28.93985101
+748	University of Salento	Italy	40.351775	18.158331
+749	Huazhong Agricultural University	China	30.47508	114.353035
+750	Diego Portales University	Chile	-35.00295055	-71.22987563
+751	Chongqing University	China	29.50824795	106.5757268
+752	Chiang Mai University	Thailand	18.79124745	98.97447038
+753	Babeş-Bolyai University	Romania	46.7677836	23.59197655
+754	Hannover Medical School	Germany	52.38405	9.805964
+755	Mississippi State University	United States	33.46433105	-88.79942546
+756	Athens University of Economics and Business	Greece	37.994072	23.732403
+757	Technical University of Braunschweig	Germany	52.273521	10.529695
+758	Pontifical Catholic University of Rio de Janeiro (PUC-Rio)	Brazil	-22.979661	-43.233526
+759	Australian Catholic University	Australia	-27.37815905	153.0894647
+760	Old Dominion University	United States	36.885682	-76.30768579
+761	University of Debrecen	Hungary	47.5543249	21.6239011
+762	Florida Institute of Technology	United States	28.0642296	-80.62300972
+763	University of Costa Rica	Costa Rica	9.93887835	-84.05329688
+764	University of New Hampshire - Durham	United States	43.1369862	-70.93188194
+765	Dublin Institute of Technology	Ireland	53.35556155	-6.282286313
+766	Kagoshima University	Japan	31.5716365	130.5460279
+767	Nanjing Medical University	China	31.9356664	118.8852134
+768	Universitas Gadjah Mada	Indonesia	-7.7700789	110.3810739
+769	Université Charles-de-Gaulle Lille 3	France	50.62758	3.126323
+770	Gifu University	Japan	35.46426515	136.7380125
+771	University of Bergamo	Italy	45.704404	9.660523
+772	Northumbria University	United Kingdom	54.9781026	-1.6067699
+773	Southern Cross University	Australia	-28.8188635	153.3005387
+774	Bournemouth University	United Kingdom	50.74224205	-1.894349489
+775	Thomas Jefferson University	United States	39.94796415	-75.15784373
+776	Otto von Guericke University of Magdeburg	Germany	52.140206	11.644164
+777	Yeungnam University	South Korea	35.826567	128.756315
+778	University of Seoul	South Korea	37.5840713	127.0586643
+779	University of Wyoming	United States	41.3124313	-105.5780518
+780	Chungnam National University	South Korea	36.37029045	127.347812
+781	Hamburg University of Technology	Germany	53.461109	9.969455585
+782	University of Sassari	Italy	40.3128187	9.3104899
+783	Hofstra University	United States	40.71703345	-73.59983501
+784	National Chung Hsing University	China-tw	24.123523	120.675229
+785	Loyola University Chicago	United States	41.9448418	-87.66842177
+786	University of Concepción	Chile	14.61487245	121.0355713
+787	Clemson University	United States	34.66879715	-82.837195
+788	University of Rennes 1	France	48.115937	-1.672971
+789	National Chengchi University	Taiwan	24.98159995	121.5754323
+790	Nanjing Agricultural University	China	32.037742	118.846241
+791	Paris Dauphine University (Paris 9)	France	48.87015115	2.27352185
+792	University of Electronic Science and Technology of China	China	22.531666	113.3890236
+793	Marquette University	United States	43.03889625	-87.9315545
+794	Kuwait University	Kuwait	29.3368654	47.9200022
+795	Reykjavík University	Iceland	64.1244144	-21.92759463
+796	University of Vigo	Spain	39.4703727	-87.40819676
+797	Roskilde University	Denmark	55.6925503	12.1030129
+798	Portland State University	United States	45.51181205	-122.68493
+799	Aligarh Muslim University	India	27.9151981	78.07874075
+800	Peking Union Medical College	China	39.911429	116.414819
+801	Tallinn University of Technology	Estonia	59.3949757	24.6676162
+802	University of Westminster	United Kingdom	51.5219692	-0.155028571
+803	Nanjing Tech University	China	22.5853241	113.9333403
+804	University of Urbino Carlo Bo	Italy	43.723194	12.636777
+805	Osaka Prefecture University	Japan	34.4139318	135.3031836
+806	Shinshu University	Japan	36.6283706	138.1873049
+807	University of Murcia	Spain	37.9325273	-1.162496519
+808	Al-Farabi Kazakh National University	Kazakhstan	43.225244	76.921897
+809	Alfaisal University	Saudi Arabia	24.6636147	46.6765326
+810	China University of Geosciences, Beijing	China	39.99097	116.350749
+811	Ain Shams University	Egypt	30.076309	31.28543063
+812	Nagoya City University	Japan	35.1527119	136.9705813
+813	Blaise Pascal University	France	47.3867572	0.691591
+814	Ehime University	Japan	33.9752063	132.78187
+815	Universiti Teknologi Petronas	Malaysia	4.3830464	100.9700113
+816	Dongguk University	South Korea	37.678517	126.804281
+817	University of Pécs	Hungary	46.06733275	18.19655743
+818	Taras Shevchenko National University of Kyiv	Ukraine	50.38413975	30.47409246
+819	University of Louisville	United States	38.2127098	-85.75786707
+820	Medical College of Wisconsin	United States	44.965659	-89.6668347
+821	Miami University	United States	39.3785778	-84.56384287
+822	The University of Texas Medical Branch at Galveston	United States	29.31101	-94.777772
+823	University of Santiago, Chile (USACH)	Chile	-33.451778	-70.686185
+824	Brno University of Technology	Czech Republic	49.201727	16.603295
+825	Tehran University of Medical Sciences	Iran	35.7079101	51.3951857
+826	University of Central Lancashire	United Kingdom	53.76340335	-2.708749242
+827	Fujita Health University	Japan	35.07118	137.001218
+828	University of Rostock	Germany	54.075538	12.103494
+829	University of Huddersfield	United Kingdom	53.6104599	-1.72940896
+830	University of Antioquia	Colombia	6.24198815	-75.58954289
+831	West Virginia University	United States	39.6592589	-80.0110377
+832	University of Belgrade	Serbia	44.8061071	20.47479772
+833	Tokushima University	Japan	34.0779745	134.5590655
+834	Wuhan University of Technology	China	30.60903415	114.3514284
+835	Northwestern Polytechnical University	China	34.2469152	108.910552
+836	Isfahan University of Technology	Iran	32.8832468	51.55099264
+837	Sultan Qaboos University	Oman	23.5899461	58.1768844
+838	Edinburgh Napier University	United Kingdom	55.9360357	-3.2265093
+839	Kitasato University	Japan	35.63757555	139.7307329
+840	Rochester Institute of Technology	United States	43.0826784	-77.67047648
+841	University of Maribor	Slovenia	46.55919145	15.64328716
+842	Budapest University of Technology and Economics	Hungary	47.4796299	19.05616986
+843	Federal University of ABC (UFABC)	Brazil	-23.6446884	-46.52839995
+844	Manchester Metropolitan University	United Kingdom	53.47188435	-2.2411075
+845	University of Chinese Academy of Sciences	China	40.408048	116.68236
+846	University of Brasília	Brazil	-23.56096405	-46.72770807
+847	Ohio University	United States	39.3235304	-82.10010704
+848	University of Mons	Belgium	50.4634558	3.954078272
+849	Yokohama National University	Japan	35.33330875	139.6179304
+850	University of Castilla-La Mancha	Spain	38.994019	-3.920477
+851	City College of New York	United States	40.8204407	-73.9498388
+852	Federal University of São Carlos	Brazil	-21.984174	-47.880363
+853	Beijing Jiaotong University	China	39.94976005	116.3362905
+854	Federal University of Santa Catarina	Brazil	-27.600604	-48.519674
+855	King Abdullah University of Science and Technology	Saudi Arabia	22.309457	39.104696
+856	University of Jordan	Jordan	32.01310265	35.87354923
+857	Universidad Austral	Argentina	-51.6471676	-69.2093914
+858	University of the Sunshine Coast	Australia	-26.7184793	153.065136
+859	University of Alicante	Spain	32.860958	-117.233528
+860	University of Regina	Canada	50.4152275	-104.589
+861	Hallym University	South Korea	37.88611985	127.7386743
+862	L.N. Gumilyov Eurasian National University (ENU)	Kazakhstan	51.1567771	71.47149063
+863	University of Calcutta	India	22.5791095	88.37285465
+864	National Polytechnic University (IPN)	Mexico	19.501335	-99.134559
+865	Universidad de Belgrano	Argentina	-34.56386525	-58.4438473
+866	Nanjing Normal University	China	32.1066811	118.9086308
+867	University of South Dakota	United States	42.78882365	-96.92459038
+868	University of Split	Croatia	29.7194228	-95.3412809
+869	Alexandria University	Egypt	31.21051105	29.91314562
+870	Florida Atlantic University	United States	26.8865035	-80.11435336
+871	Michigan Technological University	United States	47.1196193	-88.5484825
+872	National Research Saratov State University	Russian Federation	51.538817	46.010238
+873	Universiti Brunei Darussalam (UBD)	Brunei	4.9746286	114.8926962
+874	City University of New York City College	United States	40.8194	-73.95
+875	King Mongkut’s University of Technology Thonburi	Thailand	13.65180005	100.4944223
+876	Universiti Tunku Abdul Rahman (UTAR)	Malaysia	4.33822395	101.1395937
+877	Gyeongsang National University	South Korea	35.15554505	128.0969209
+878	Ankara University	Turkey	39.87549675	32.78553506
+879	Ocean University of China	China	36.16161795	120.4935528
+880	Adam Mickiewicz University	Poland	54.6828451	25.28750788
+881	Central University of Venezuela	Venezuela	10.490608	-66.892077
+882	Kochi University	Japan	10.0597165	76.3609105
+883	Abo Akademi University	Finland	60.2781018	19.8307958
+884	University of the West of Scotland	United Kingdom	55.84342625	-4.430068699
+885	University of the Aegean	Greece	37.795167	26.70783816
+886	University of Aizu	Japan	37.5236728	139.9380725
+887	Pontificia Universidad Católica Argentina	Argentina	-32.88601995	-68.84201985
+888	University of Algarve	Portugal	37.02704895	-7.922375502
+889	University of Udine	Italy	46.0272253	13.2595538
+890	Atılım University	Turkey	49.45832195	11.08546
+891	Medical University of Innsbruck	Austria	47.262702	11.384904
+892	Moscow State Institute of International Relations (MGIMO University)	Russia	55.67260345	37.48571406
+893	Howard University	United States	38.921525	-77.01953566
+894	National University of Córdoba	Argentina	41.4404343	-87.6878215
+895	Grenoble Institute of Technology	France	45.1908798	5.7169733
+896	University of Jaén	Spain	60.20150365	24.9654634
+897	University of Bedfordshire	United Kingdom	51.8778642	-0.410623193
+898	University of Salford	United Kingdom	53.4886859	-2.278328792
+899	University of Beira Interior	Portugal	40.27781	-7.509026
+900	Beni-Suef University	Egypt	29.0812415	31.10072999
+901	University of Bucharest	Romania	44.43564855	26.10136674
+902	King Juan Carlos University	Spain	40.33544	-3.877459
+903	École Centrale de Lyon	France	45.7833631	4.768770356
+904	University of East London	United Kingdom	51.5442663	0.009647662
+905	HUFS - Hankuk (Korea) University of Foreign Studies	South Korea	37.597327	127.057832
+906	Northwest University	China	32.2391242	-110.9504158
+907	Tokai University	Japan	43.7842489	142.3067641
+908	University of Chemistry and Technology, Prague	Czech Republic	50.1021757	14.391267
+909	University of Southern Queensland	Australia	-27.6043047	151.9327409
+910	V.N. Karazin Kharkiv National University	Ukraine	50.004696	36.228053
+911	National Taipei University of Technology	Taiwan	25.04306355	121.5346804
+912	Wesleyan University	United States	41.555129	-72.65693421
+913	Universidad Externado de Colombia	Colombia	4.5951524	-74.06835631
+914	Nottingham Trent University	United Kingdom	52.9577322	-1.156170993
+915	COMSATS Institute of Information Technology	Pakistan	31.4006332	74.2137296
+916	Southern Federal University	Russian Federation	47.2165969	39.63062775
+917	Arabian Gulf University	Bahrain	26.2141413	50.57152723
+918	University of Savoy	France	45.5667555	5.917541467
+919	Kazakh National Research Technical University after K.I.Satpayev	Kazakhstan	43.236422	76.929711
+920	Gunma University	Japan	36.43081545	139.0444871
+921	University of Greenwich	United Kingdom	51.4825423	-0.0066531
+922	De Montfort University	United Kingdom	52.6300609	-1.139843407
+923	Eastern Mediterranean University	Northern Cyprus	35.14479945	33.90492318
+924	Hitotsubashi University	Japan	35.6937953	139.4439284
+925	Kindai University	Japan	-7.76333525	110.4083547
+926	University of Mississippi	United States	34.36429485	-89.52538012
+927	Embry-Riddle Aeronautical University	United States	29.19175315	-81.04958387
+928	Federal University of Itajubá	Brazil	-22.4137971	-45.4502726
+929	Rio de Janeiro State University (UERJ)	Brazil	-22.91117105	-43.23577971
+930	Koc University	Turkey	41.20315895	29.07286536
+931	Gebze Technical University	Turkey	40.81140115	29.35951435
+932	Universidad de Palermo (UP)	Argentina	-34.5962785	-58.41767775
+933	Glasgow Caledonian University	United Kingdom	55.86746635	-4.250219192
+934	University of Arkansas for Medical Sciences	United States	34.748452	-92.320589
+935	Nara Institute of Science and Technology	Japan	34.7325171	135.7316649
+936	International School for Advanced Studies	Italy	45.68025	13.774063
+937	Yamaguchi University	Japan	33.999924	130.948616
+938	Singapore Management University	Singapore	1.2964593	103.8502794
+939	University of North Carolina at Greensboro	United States	36.0679595	-79.81035836
+940	University of Tennessee Health Science Center	United States	35.1390842	-90.0318192
+941	Alexandru Ioan Cuza University	Romania	47.17423625	27.57309346
+942	Indian School of Mines	India	23.814181	86.441132
+943	ISCTE-University Institute of Lisbon	Portugal	38.7485846	-9.154006646
+944	Utah State University	United States	41.7411504	-111.8122309
+945	Kagawa University	Japan	34.29261785	134.0632364
+946	National Technical University of Ukraine – Kyiv Polytechnic Institute	Ukraine	50.44922055	30.45772978
+947	Lobachevsky State University of Nizhni Novgorod	Russian Federation	56.299555	43.982535
+948	Saitama University	Japan	35.86197185	139.6075913
+949	State University of New York Health Science Center at Brooklyn	United States	40.655058	-73.945361
+950	University of Massachusetts - Boston	United States	42.32129435	-71.04637997
+951	Riga Technical University	Latvia	56.9527434	24.0806623
+952	K.N. Toosi University of Technology	Iran	35.76427925	51.40970276
+953	King Khalid University	Saudi Arabia	24.7133304	46.62182029
+954	Jinan University	China	23.1331951	113.342957
+955	University of Colombo	Sri Lanka	6.9007047	79.86047339
+956	Nihon University	Japan	35.69715535	139.7625818
+957	RUDN University	Russian Federation	55.6506205	37.50144442
+958	Birla Institute of Technology and Science, Pilani	India	28.364007	75.586979
+959	Nagoya Institute of Technology	Japan	35.15727155	136.9252004
+960	The University of Akron	United States	41.0761306	-81.51194783
+961	Leeds Beckett University	United Kingdom	53.80317025	-1.549100987
+962	University of Lincoln	United Kingdom	53.22853665	-0.548734724
+963	Augusta University	United States	33.4692839	-81.9881801
+964	Shantou University	China	23.4169183	116.6281836
+965	Ural Federal University	Russian Federation	56.8441227	60.6506149
+966	Beijing University of Chemical Technology	China	39.971084	116.421174
+967	Donghua University	China	31.20713055	121.4102415
+968	Kazakh National Pedagogical University named after Abay	Kazakhstan	43.256415	76.953875
+969	University of Rhode Island	United States	41.8295635	-71.416277
+970	Saint Joseph University of Beirut (USJ)	Lebanon	33.890984	35.508518
+971	University of Latvia	Latvia	56.950744	24.11605942
+972	Far Eastern Federal University	Russian Federation	43.1156423	131.9008656
+973	National Institute of Technology Rourkela	India	22.2501589	84.90668557
+974	Kasetsart University	Thailand	13.85038955	100.5680605
+975	Corvinus University of Budapest	Hungary	47.48630225	19.05809891
+976	Auezov South Kazakhstan State University (SKSU)	Kazakhstan	42.320422	69.590819
+977	University of Lübeck	Germany	53.839021	10.708728
+978	University of Northern British Columbia (UNBC)	Canada	53.8925662	-122.8147159
+979	University of A Coruña	Spain	43.370749	-8.39055
+980	University of Nevada - Reno	United States	39.53786515	-119.8187839
+981	Pontifícia Universidade Católica de São Paulo	Brazil	-23.49629595	-46.86854237
+982	Jiangsu University	China	32.20302965	119.5096836
+983	University of Toyama	Japan	35.3380782	-80.7574593
+984	Ritsumeikan University	Japan	35.0333281	135.7249154
+985	Feng Chia University	Taiwan	24.18005755	120.6483607
+986	Universidad de Montevideo (UM)	Uruguay	-34.8898685	-56.0593712
+987	Pontifical Catholic University of Valparaíso	Chile	-33.044434	-71.605883
+988	Austral University of Chile	Chile	-39.806227	-73.251645
+989	University of Missouri–Kansas City	United States	39.03398365	-94.57805895
+990	Metropolitan Autonomous University	Mexico	36.61048	127.2873732
+991	Savitribai Phule Pune University	India	18.552686	73.826494
+992	University of North Texas	United States	33.2098879	-97.15147488
+993	University of Baghdad	Iraq	33.37084965	44.38224977
+994	The University of Electro-Communications	Japan	35.6572957	139.5425587
+995	Northeastern University (Shenyang)	China	41.7651087	123.4051787
+996	University of Roehampton	United Kingdom	51.4487292	-0.244097819
+997	University of Auvergne	France	45.8414358	6.21205431
+998	Fu Jen Catholic University	Taiwan	25.0353489	121.4325481
+999	Erciyes University	Turkey	38.7082846	35.53521585
+1000	National Polytechnic Institute of Toulouse	France	43.555402	1.503892
